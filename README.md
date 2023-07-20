@@ -30,11 +30,11 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 1. clone the repository
 2. install the dependencies
-3. run the server `nodemon run dev`
+
 ### Install
-
+`npm install`
 ## Usage
-
+` run the server nodemon run dev`
 ### register
 
 `http://localhost:4001/register`

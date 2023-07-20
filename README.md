@@ -3,7 +3,7 @@
 # Node js API authentication and authorization
 
 > Description the project.
-
+This project is a Node.js-based RESTful API built with Express and MongoDB, featuring JWT (JSON Web Tokens) for secure user authentication. The API allows users to register and login, storing encrypted passwords in the database. It leverages JWT to generate tokens for authenticated requests and provides access to protected routes based on the token's validity. The API's tech stack includes Node.js for its runtime environment, Express for web framework, MongoDB for data storage, and Bcrypt.js for password hashing. The API is ready to use, and contributions are welcome for enhancements and new features.
 ## Built With
 
 - Javascript
@@ -22,9 +22,15 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- A working knowledge of JavaScript.
+- A good understanding of Node.js.
+- A basic understanding of MongoDB or any database of your choice.
+- Postman and some knowledge on how to use Postman.
+  
 ### Setup
-
+1. clone the repository
+2. install the dependencies
+3. run the server `nodemon run dev`
 ### Install
 
 ## Usage

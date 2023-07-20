@@ -27,7 +27,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-### Usage
+## Usage
+
+### register
 
 `http://localhost:4001/register`
 
@@ -38,7 +40,26 @@ To get a local copy up and running follow these simple example steps.
     "password": "brian"
 }`
 
-### Run tests
+### Login
+
+`http://localhost:4001/login`
+
+`{
+
+    "email": "nyachae",
+    "password": "brian"
+
+}`
+
+## screenshots
+
+### Register
+
+![register](./screenshots/register.png)
+
+### Login
+
+![register](./screenshots/login.png)
 
 ### Deployment
 

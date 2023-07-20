@@ -61,6 +61,10 @@ To get a local copy up and running follow these simple example steps.
 
 ![register](./screenshots/login.png)
 
+### MangoDB data
+
+![register](./screenshots/mangoDB.png)
+
 ### Deployment
 
 ## Authors

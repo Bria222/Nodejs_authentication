@@ -29,6 +29,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
+`http://localhost:4001/register`
+
+`{
+    "first_name": "brian",
+    "last_name": "nyachae",
+    "email": "nyachae",
+    "password": "brian"
+}`
+
 ### Run tests
 
 ### Deployment
